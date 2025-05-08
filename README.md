@@ -1,7 +1,7 @@
 ## Bank Loan Report – (Power bi + SQL)
 This project presents a comprehensive Power BI dashboard that visualizes and analyzes bank loan data to support risk assessment, loan decision-making, and portfolio management. Built using real-world banking domain knowledge, the report showcases how financial institutions collect, process, and evaluate loan applications to manage credit risk and ensure regulatory compliance.
 
-#Key Features
+# Key Features
 Loan Application Analysis: Insight into loan approval processes including credit checks, income verification, and risk assessment.
 
 Credit Risk Visualization: Identifies creditworthy borrowers and highlights potential defaulters using interactive visuals.
@@ -14,7 +14,7 @@ Compliance Monitoring: Supports transparency and alignment with KYC and HMDA sta
 
 Fraud Detection: Highlights anomalies or patterns that might indicate fraudulent activity.
 
-#Data Validation
+# Data Validation
 To ensure the accuracy and integrity of the data presented in the dashboard, a SQL query file is included. This file contains the scripts used for:
 
 Validating raw data inputs
