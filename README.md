@@ -1,4 +1,4 @@
-📊 Bank Loan Report – Power BI Dashboard
+##📊 Bank Loan Report – Power BI Dashboard
 This project presents a comprehensive Power BI dashboard that visualizes and analyzes bank loan data to support risk assessment, loan decision-making, and portfolio management. Built using real-world banking domain knowledge, the report showcases how financial institutions collect, process, and evaluate loan applications to manage credit risk and ensure regulatory compliance.
 
 🔍 Key Features
